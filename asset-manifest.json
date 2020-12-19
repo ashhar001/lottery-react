@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/lottery-react/static/js/main.e745a62a.chunk.js",
+    "main.js.map": "/lottery-react/static/js/main.e745a62a.chunk.js.map",
+    "runtime-main.js": "/lottery-react/static/js/runtime-main.6ceae0ff.js",
+    "runtime-main.js.map": "/lottery-react/static/js/runtime-main.6ceae0ff.js.map",
+    "static/js/2.89dc5f29.chunk.js": "/lottery-react/static/js/2.89dc5f29.chunk.js",
+    "static/js/2.89dc5f29.chunk.js.map": "/lottery-react/static/js/2.89dc5f29.chunk.js.map",
+    "static/js/3.0b076bfe.chunk.js": "/lottery-react/static/js/3.0b076bfe.chunk.js",
+    "static/js/3.0b076bfe.chunk.js.map": "/lottery-react/static/js/3.0b076bfe.chunk.js.map",
+    "index.html": "/lottery-react/index.html",
+    "static/js/2.89dc5f29.chunk.js.LICENSE.txt": "/lottery-react/static/js/2.89dc5f29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ceae0ff.js",
+    "static/js/2.89dc5f29.chunk.js",
+    "static/js/main.e745a62a.chunk.js"
+  ]
+}
